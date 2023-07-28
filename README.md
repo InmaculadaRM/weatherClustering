@@ -1,2 +1,2 @@
 # weatherClustering
-Analyzing historical weather data with Python - Machine learning clustering with Scikit-Learn + Folium visualization. Workflow available in my github
+Analyzing historical weather data with Python - Machine learning clustering with Scikit-Learn + Folium visualization. Reproducible jupyter notebook Workflow
